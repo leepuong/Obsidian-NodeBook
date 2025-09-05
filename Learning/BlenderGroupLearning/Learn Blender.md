@@ -1,0 +1,6 @@
+---
+tags:
+  - Blender
+  - "#learnBlender"
+  - "#LearningTag"
+---

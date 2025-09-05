@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "306bdcd3e9803664",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf8cd4d61e20f0b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007552688c562bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backup/Laptop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laptop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63cd997b2b9352b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7c96ea45c9b546",
+        "type": "tabs",
+        "dimension": 55.10204081632653,
+        "children": [
+          {
+            "id": "071145cceeb8eda7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85291c22c71bbf22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "074a2f1cb2e1b80b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4ce80f8a2f6c460",
+        "type": "tabs",
+        "dimension": 44.89795918367347,
+        "children": [
+          {
+            "id": "05f00e883afa38f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 495.50418853759766
+  },
+  "right": {
+    "id": "957f2c2f2cb9e04e",
+    "type": "split",
+    "children": [
+      {
+        "id": "427f492e5427e981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d93999699ceebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blender/Geometry node/Group node/Curve Circle node.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Curve Circle node"
+            }
+          },
+          {
+            "id": "c333ff2fa6988986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blender/Geometry node/Group node/Curve Circle node.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Curve Circle node"
+            }
+          },
+          {
+            "id": "c5b6759afe2bb1e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ee2994160e97c60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f8386d57457f76e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "df52602f1dba8a20",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "007552688c562bba",
+  "lastOpenFiles": [
+    "Tip&Trick/Map lineup Javalorant.md",
+    "img/temp/image 8.png",
+    "img/Formation of knowledge/01092025.png",
+    "img/Formation of knowledge/Formation of knowledge.md",
+    "img/temp/image-4 1.png",
+    "img/temp/image-5 1.png",
+    "img/temp/image-6.png",
+    "Tool/Texture Tool.md",
+    "Tool/Model3D Tool.md",
+    "Tool/Text Tool.md",
+    "Tool/Color Tool.md",
+    "backup/Laptop.md",
+    "Drawing 2025-09-05 02.35.06.excalidraw.md",
+    "HTTP.txt",
+    "backup",
+    "Excalidraw/Drawing 2025-09-03 16.45.00.excalidraw.md",
+    "Excalidraw",
+    "all-inofficial-callouts-for-valorant-map-haven.htm",
+    "Tip&Trick/Tip WarmUp.md",
+    "Game/Vintage Story.md",
+    "Game/test white broad.md",
+    "Game/Minecraft New Horizon.md",
+    "IT/FrontEnd/library/Light Swind UI.md",
+    "IT/Doc GIT/Developer-Roadmap.md",
+    "IT/FrontEnd/library",
+    "IT/FrontEnd",
+    "img/temp/image-3 1.png",
+    "IT/Doc GIT/Free-programing-books.md",
+    "IT/Doc GIT/Tech-interview-handbook.md",
+    "img/temp/image-2 2.png",
+    "img/temp/image-1 6.png",
+    "IT/Doc GIT",
+    "IT/Untitled.md",
+    "IT",
+    "img/temp/image 7.png",
+    "Game",
+    "Tool/Code Tool.md",
+    "img/temp/image-1 5.png",
+    "Test obsidian/Get New Node.md",
+    "Learning/AfterEffectGroupLearning/Learn AfterEffect.md",
+    "img/temp",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Learning/AfterEffectGroupLearning/Tutorial1.md",
+    "Learning/BlenderGroupLearning/Learn Blender.md",
+    "Untitled.canvas",
+    "Blender/Untitled.canvas"
+  ]
+}

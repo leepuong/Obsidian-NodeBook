@@ -1,0 +1,20 @@
+---
+tags:
+  - Blender
+  - Geometry
+---
+- Geometry
+	- Operations
+		- [[Transform node]]
+		- [[Convex Hull node]]
+- Group
+	- [[Input node]]
+	- [[Output node]]
+- Mesh
+	- Operations
+		- [[Mesh to Curve node]]
+- Curve
+	- Operations
+		- [[Curve to Mesh node]]
+	- Primitives
+		- [[Curve Circle node]]
