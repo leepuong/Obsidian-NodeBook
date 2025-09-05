@@ -19,7 +19,8 @@ tags:
 
 
 #### Blender
-
+- [ ] Plugin
+- [ ] 
 
 
 #### Obsidian
