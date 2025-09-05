@@ -13,7 +13,7 @@ tags:
 #### Office
 - [ ] Word
 - [ ] Excel
-- [Download Here](sss)
+- [Tutorial Here](https://www.youtube.com/watch?v=L9R9jzZ1yOE)
 
 #### Code
 - [ ] Cursor
