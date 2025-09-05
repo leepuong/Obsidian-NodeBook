@@ -20,7 +20,6 @@ tags:
 
 #### Blender
 - [ ] Plugin
-- [ ] 
 
 
 #### Obsidian
