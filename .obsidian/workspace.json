@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.50418853759766
+    "width": 444.50418853759766
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -105,6 +105,7 @@
       {
         "id": "427f492e5427e981",
         "type": "tabs",
+        "dimension": 56.39999999999999,
         "children": [
           {
             "id": "33d93999699ceebf",
@@ -169,16 +170,6 @@
             }
           },
           {
-            "id": "f8386d57457f76e9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "df52602f1dba8a20",
             "type": "leaf",
             "state": {
@@ -189,11 +180,28 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "13ecc1c78cbc8d1d",
+        "type": "tabs",
+        "dimension": 43.6,
+        "children": [
+          {
+            "id": "f8386d57457f76e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,6 +219,7 @@
   },
   "active": "007552688c562bba",
   "lastOpenFiles": [
+    "backup/Laptop.md",
     "Tip&Trick/Map lineup Javalorant.md",
     "img/temp/image 8.png",
     "img/Formation of knowledge/01092025.png",
@@ -222,7 +231,6 @@
     "Tool/Model3D Tool.md",
     "Tool/Text Tool.md",
     "Tool/Color Tool.md",
-    "backup/Laptop.md",
     "Drawing 2025-09-05 02.35.06.excalidraw.md",
     "HTTP.txt",
     "backup",
