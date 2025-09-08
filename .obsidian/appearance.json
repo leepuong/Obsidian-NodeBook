@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidianite",
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

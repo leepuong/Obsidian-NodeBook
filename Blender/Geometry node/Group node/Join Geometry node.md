@@ -4,12 +4,7 @@ tags:
   - Geometry
 ---
 df
-![[image 3.png]]
-
-## Materials
-- none
-## Attributes
-- none
+![[image-9.png]]
 
 ==✒️Ghi chú==
 	none

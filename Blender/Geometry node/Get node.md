@@ -67,3 +67,11 @@ tags:
 
 ![[image-1 2.png]]
 
+
+### [[Subdivision Surface node]]
+
+**Shift + A**
+**Mesh -> Operations -> Subdivision Surface**
+
+![[image-8.png]]
+

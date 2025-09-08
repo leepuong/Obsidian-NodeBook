@@ -19,7 +19,7 @@ tags:
 - [ ] Cursor
 [Download Cursor](https://cursor.com/)
 [Download Profile](https://drive.google.com/drive/folders/1TEKPji4Iqan1bWviMOvq5LjkRNQnFAkh?usp=drive_link)
-- [ ] VS Code
+- [x] VS Code
 [Download Vs Code](https://code.visualstudio.com/)
 [Download Profile](https://drive.google.com/drive/folders/10NJB-1D2rTrR01JLUewgmThPWLeSUYkj?usp=drive_link)
 

@@ -13,6 +13,7 @@ tags:
 - Mesh
 	- Operations
 		- [[Mesh to Curve node]]
+		- [[Subdivision Surface node]]
 - Curve
 	- Operations
 		- [[Curve to Mesh node]]

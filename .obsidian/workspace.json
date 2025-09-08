@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backup/Laptop.md",
+                "file": "Blender/Geometry node/Geometry Node List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laptop"
+              "title": "Geometry Node List"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.50418853759766
+    "width": 373.5
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,16 +217,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05f00e883afa38f7",
+  "active": "007552688c562bba",
   "lastOpenFiles": [
+    "Blender/Geometry node/Get node.md",
+    "Test obsidian/Add New Node.md",
+    "Blender/Geometry node/Group node/Join Geometry node.md",
+    "image-9.png",
+    "Blender/Geometry node/Group node/Mesh to Curve node.md",
+    "Blender/Geometry node/Group node/Subdivision Surface node.md",
+    "name node.md",
+    "image-8.png",
+    "Blender/Parameter/Group Parameter/Vertex Crease.md",
+    "Blender/Parameter/Group Parameter/Limit Surface.md",
+    "Blender/Parameter/Group Parameter/Edge Crease.md",
+    "image-7.png",
+    "image-6.png",
+    "image-5.png",
+    "image-4.png",
+    "image-3.png",
+    "image-2.png",
+    "image-1.png",
+    "Blender/Parameter/Group Parameter",
+    "Blender/Properties/Untitled.md",
+    "Blender/Parameter",
+    "Untitled",
+    "image.png",
+    "Blender/Geometry node/Group node/Transform node.md",
+    "Blender/Geometry node/Group node/Convex Hull node.md",
+    "Blender/Geometry node/Group node/Input node.md",
+    "Blender/Geometry node/Group node/Output node.md",
     "backup/Laptop.md",
     "Tip&Trick/Map lineup Javalorant.md",
-    "img/temp/image 8.png",
-    "img/Formation of knowledge/01092025.png",
     "img/Formation of knowledge/Formation of knowledge.md",
-    "img/temp/image-4 1.png",
-    "img/temp/image-5 1.png",
-    "img/temp/image-6.png",
     "Tool/Texture Tool.md",
     "Tool/Model3D Tool.md",
     "Tool/Text Tool.md",
@@ -240,30 +262,9 @@
     "Tip&Trick/Tip WarmUp.md",
     "Game/Vintage Story.md",
     "Game/test white broad.md",
-    "Game/Minecraft New Horizon.md",
-    "IT/FrontEnd/library/Light Swind UI.md",
-    "IT/Doc GIT/Developer-Roadmap.md",
     "IT/FrontEnd/library",
     "IT/FrontEnd",
-    "img/temp/image-3 1.png",
-    "IT/Doc GIT/Free-programing-books.md",
-    "IT/Doc GIT/Tech-interview-handbook.md",
-    "img/temp/image-2 2.png",
-    "img/temp/image-1 6.png",
     "IT/Doc GIT",
-    "IT/Untitled.md",
-    "IT",
-    "img/temp/image 7.png",
-    "Game",
-    "Tool/Code Tool.md",
-    "img/temp/image-1 5.png",
-    "Test obsidian/Get New Node.md",
-    "Learning/AfterEffectGroupLearning/Learn AfterEffect.md",
-    "img/temp",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Learning/AfterEffectGroupLearning/Tutorial1.md",
-    "Learning/BlenderGroupLearning/Learn Blender.md",
     "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]
