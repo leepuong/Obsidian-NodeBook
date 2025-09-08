@@ -5,7 +5,7 @@ tags:
 ---
 - **Edge Crease = trọng số sắc cạnh** gắn trên _edge_ (và _vertex_) với biên độ **0 → 1**.
     - **0.0**: cạnh tròn hoàn toàn theo Subdivision.
-    - ![[image-1.png|309x210]]
+    - ![[image-1 7.png|309x210]]
     - **1.0**: cạnh “giữ sắc” tối đa (như có mép cứng) nhưng vẫn là bề mặt SubD, không thêm lưới phụ.
-    - ![[image-2.png|307x211]]
+    - ![[image-2 3.png|307x211]]
 - Ảnh hưởng **chỉ khi có Subdivision Surface** (Catmull-Clark). Không thay đổi topology, chỉ hướng thuật toán SubD “bớt làm tròn” dọc cạnh đó.

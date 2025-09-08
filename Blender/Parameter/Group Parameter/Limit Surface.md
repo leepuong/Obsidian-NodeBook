@@ -5,7 +5,7 @@ tags:
 ---
 - **Limit Surface** sẽ giới hạn mực độ phân chia, biến dạng ở các đỉnh nhằm tạo ra bề mặt mịn mạn nhất có thể
 	- Limit Surface: True
-	- ![[image-6.png]]
+	- ![[image-6 1.png]]
 	- Limit Surface: False
 	- ![[image-7.png|447x435]]
 	- 

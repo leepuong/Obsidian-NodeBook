@@ -11,14 +11,12 @@
             "id": "007552688c562bba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Blender/Geometry node/Geometry Node List.md",
-                "mode": "source",
-                "source": false
+                "file": "img/temp/image 9.png"
               },
-              "icon": "lucide-file",
-              "title": "Geometry Node List"
+              "icon": "lucide-image",
+              "title": "image 9"
             }
           }
         ]
@@ -217,31 +215,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "007552688c562bba",
+  "active": "071145cceeb8eda7",
   "lastOpenFiles": [
+    "name node.md",
+    "img/temp/image 9.png",
+    "Blender/Geometry node/Geometry Node List.md",
     "Blender/Geometry node/Get node.md",
     "Test obsidian/Add New Node.md",
     "Blender/Geometry node/Group node/Join Geometry node.md",
-    "image-9.png",
+    "img/temp/image-9.png",
     "Blender/Geometry node/Group node/Mesh to Curve node.md",
     "Blender/Geometry node/Group node/Subdivision Surface node.md",
-    "name node.md",
-    "image-8.png",
+    "img/temp/image-8.png",
     "Blender/Parameter/Group Parameter/Vertex Crease.md",
     "Blender/Parameter/Group Parameter/Limit Surface.md",
     "Blender/Parameter/Group Parameter/Edge Crease.md",
-    "image-7.png",
-    "image-6.png",
-    "image-5.png",
-    "image-4.png",
-    "image-3.png",
-    "image-2.png",
-    "image-1.png",
+    "img/temp/image-7.png",
+    "img/temp/image-6 1.png",
+    "img/temp/image-5 2.png",
+    "img/temp/image-4 2.png",
+    "img/temp/image-3 2.png",
+    "img/temp/image-2 3.png",
+    "img/temp/image-1 7.png",
     "Blender/Parameter/Group Parameter",
     "Blender/Properties/Untitled.md",
     "Blender/Parameter",
     "Untitled",
-    "image.png",
     "Blender/Geometry node/Group node/Transform node.md",
     "Blender/Geometry node/Group node/Convex Hull node.md",
     "Blender/Geometry node/Group node/Input node.md",
@@ -260,8 +259,6 @@
     "Excalidraw",
     "all-inofficial-callouts-for-valorant-map-haven.htm",
     "Tip&Trick/Tip WarmUp.md",
-    "Game/Vintage Story.md",
-    "Game/test white broad.md",
     "IT/FrontEnd/library",
     "IT/FrontEnd",
     "IT/Doc GIT",

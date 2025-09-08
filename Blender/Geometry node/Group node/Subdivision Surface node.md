@@ -4,7 +4,7 @@ tags:
   - Geometry
 ---
 Nút "**Subdivision Surface**" cho thêm các mặt mới vào hình học lưới bằng phương pháp phân chia nhỏ Catmull-Clark
-![[image.png]]
+![[image 9.png]]
 
 ## Inputs
 - Mesh
