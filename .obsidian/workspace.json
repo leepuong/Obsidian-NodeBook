@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf8cd4d61e20f0b7",
+        "id": "a77378cf921f88b7",
         "type": "tabs",
         "children": [
           {
-            "id": "007552688c562bba",
+            "id": "570c5013df66e78a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/temp/image 9.png"
+                "file": "Test obsidian/Test code command.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "image 9"
+              "icon": "lucide-file",
+              "title": "Test code command"
             }
           }
         ]
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Blender",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,27 +207,36 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "071145cceeb8eda7",
+  "active": "570c5013df66e78a",
   "lastOpenFiles": [
-    "name node.md",
-    "img/temp/image 9.png",
-    "Blender/Geometry node/Geometry Node List.md",
-    "Blender/Geometry node/Get node.md",
-    "Test obsidian/Add New Node.md",
+    "Test obsidian/Test code command.md",
+    "Blender/Geometry node/Group node/Curve Circle node.md",
+    "Blender/Geometry node/Group node/Subdivision Surface node.md",
+    "Blender/Geometry node/Group node/Input node.md",
+    "Blender/Geometry node/Group node/Output node.md",
     "Blender/Geometry node/Group node/Join Geometry node.md",
+    "Blender/Geometry node/Get node.md",
+    "image.png",
+    "Blender/Object/Object Group/Volume.md",
+    "Blender/Object/Object Group",
+    "Blender/Object",
+    "Blender/Geometry node/Group node/Transform node.md",
+    "img/temp/image 9.png",
+    "name node.md",
+    "Blender/Geometry node/Geometry Node List.md",
+    "Test obsidian/Add New Node.md",
     "img/temp/image-9.png",
     "Blender/Geometry node/Group node/Mesh to Curve node.md",
-    "Blender/Geometry node/Group node/Subdivision Surface node.md",
     "img/temp/image-8.png",
     "Blender/Parameter/Group Parameter/Vertex Crease.md",
     "Blender/Parameter/Group Parameter/Limit Surface.md",
@@ -236,15 +247,11 @@
     "img/temp/image-4 2.png",
     "img/temp/image-3 2.png",
     "img/temp/image-2 3.png",
-    "img/temp/image-1 7.png",
     "Blender/Parameter/Group Parameter",
     "Blender/Properties/Untitled.md",
     "Blender/Parameter",
     "Untitled",
-    "Blender/Geometry node/Group node/Transform node.md",
     "Blender/Geometry node/Group node/Convex Hull node.md",
-    "Blender/Geometry node/Group node/Input node.md",
-    "Blender/Geometry node/Group node/Output node.md",
     "backup/Laptop.md",
     "Tip&Trick/Map lineup Javalorant.md",
     "img/Formation of knowledge/Formation of knowledge.md",
@@ -255,13 +262,9 @@
     "Drawing 2025-09-05 02.35.06.excalidraw.md",
     "HTTP.txt",
     "backup",
-    "Excalidraw/Drawing 2025-09-03 16.45.00.excalidraw.md",
     "Excalidraw",
     "all-inofficial-callouts-for-valorant-map-haven.htm",
-    "Tip&Trick/Tip WarmUp.md",
     "IT/FrontEnd/library",
-    "IT/FrontEnd",
-    "IT/Doc GIT",
     "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]

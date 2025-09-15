@@ -75,3 +75,13 @@ tags:
 
 ![[image-8.png]]
 
+
+
+
+### [[Join Geometry node]]
+
+**Shift + A**
+**Geometry -> Join Geometry**
+
+![[image.png]]
+
