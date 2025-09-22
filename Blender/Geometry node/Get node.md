@@ -83,5 +83,5 @@ tags:
 **Shift + A**
 **Geometry -> Join Geometry**
 
-![[image.png]]
+![[image 10.png]]
 
