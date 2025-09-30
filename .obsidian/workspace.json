@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aee5e6c06012f69d",
+        "id": "181471617024dd79",
         "type": "tabs",
         "children": [
           {
-            "id": "c19e8015cb98cb72",
+            "id": "0b7f11dab2a8ff7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Today"
-            }
-          },
-          {
-            "id": "838a87a3c1de8546",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "7436-4902-7429/7429-Math/display.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "display"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"$$\\\\star, \\\\ast, \\\\oplus, \\\\circ, \\\\bullet$$\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,10 +213,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "838a87a3c1de8546",
+  "active": "0b7f11dab2a8ff7e",
   "lastOpenFiles": [
-    "Today.md",
+    "Untitled.canvas",
+    "img/temp/image 11.png",
+    "img/temp/Pasted Image 20250930113838_317.png",
+    "7436-4902-7429/4902-Web/ASM.md",
+    "7436-4902-7429/4902-Web/DRAW.md",
+    "7436-4902-7429/4902-Web/authen.md",
+    "7436-4902-7429/4902-Web/lap1.md",
+    "7436-4902-7429/7436-Android/Draw.md",
+    "[[7436-4902-7429/7436-Android/Usecase.md",
+    "7436-4902-7429/7436-Android/ANDROID.md",
     "7436-4902-7429/7429-Math/display.md",
+    "7436-4902-7429/7429-Math/lap.md",
+    "Today.md",
+    "BITCDRAW.md",
+    "BITC.md",
+    "Test obsidian/Test code command.md",
+    "Test obsidian/Markdown.md",
+    "Test obsidian/Get New Node.md",
+    "7436-4902-7429/7429-Math/Công thức.md",
+    "[[7436-4902-7429/7436-Android",
+    "[[7436-4902-7429",
+    "7436-4902-7429/7429-Math/ASM.md",
+    "7436-4902-7429/4902-Web",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
@@ -252,32 +256,11 @@
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "7436-4902-7429/7429-Math/Công thức.md",
-    "Test obsidian/Test command.md",
-    "Test obsidian/Test code command.md",
-    "7436-4902-7429/7429-Math/lap.md",
-    "7436-4902-7429/7429-Math/ASM.md",
-    "Game/Minecraft New Horizon.md",
-    "Game/Vintage Story.md",
-    "img/Formation of knowledge/01092025.png",
-    "Blender/Geometry node/Get node.md",
-    "Blender/Geometry node/Group node/Curve to Mesh node.md",
-    "Test obsidian/image.png",
-    "backup/Laptop.md",
-    "IT/Doc GIT/Tech-interview-handbook.md",
-    "7436-4902-7429/7436-Android/ANDROID.md",
     "7436-4902-7429/7429-Math",
-    "Learning/DrawingGroupLearning/Draw POP Lighting.md",
-    "Excalidraw/Usecase.md",
-    "Learning/DrawingGroupLearning/Draw backgrounds.md",
     "7436-4902-7429/7436-Android",
     "7436-4902-7429",
     "Learning/DrawingGroupLearning",
     "IT/FrontEnd/Untitled",
-    "Blender/Object/Object Group",
-    "Blender/Object",
-    "Blender/Parameter/Group Parameter",
-    "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]
 }

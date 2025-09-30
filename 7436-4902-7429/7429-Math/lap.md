@@ -28,3 +28,18 @@ b) using a membership table.
 | X6    | 1              | 0              | 1              |                                      |                                      |                                      |                                                            |
 | X7    | 0              | 1              | 0              |                                      |                                      |                                      |                                                            |
 | X8    | 0              | 0              | 0              |                                      |                                      |                                      |                                                            |
+
+
+
+
+### Functions
+
+$$a)\quad f: \mathbb{R} \rightarrow \mathbb{R},\quad f(x)  = -3x +6 $$
+Suppose that $y$ is the image of $x$, so that $y= -3x +6$
+$$3x = 6-y$$
+$$x = \frac {6-y}3$$
+$$\Rightarrow \quad f^{-1}(y) = \frac{6-y}3 $$
+$$\Rightarrow \quad f(x) = \frac{6-x}3 $$
+
+
+

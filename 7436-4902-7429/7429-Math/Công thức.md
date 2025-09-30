@@ -3,7 +3,14 @@
 [More](https://help.obsidian.md/advanced-syntax#Math)
 [More](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
-**$$\cap$$\cap 
+
+**$$\mathbb{R}$$
+\mathbb{R}
+
+$$\rightarrow$$
+**\rightarrow
+$$\quad$$\quad, \qquad, \qqquad
+$$\cap$$\cap 
 Giao (Intersection) 
 $$\cup$$\cup
 Hợp (Union)
@@ -113,4 +120,7 @@ $A \cap B \cap C$
 - $A \cup (B \cap C)$ 
 
 
+
+
+$$g \circ f$$
 

@@ -10,6 +10,7 @@
 	- [ ] cách texture ở video này **"Decals and Texturing with Blender Stencils"** [here](https://www.youtube.com/watch?v=6uoH5i4Rfos)
 	- [ ] ~={red}check course animation=~ [How to Animate ANYTHING](https://www.youtube.com/watch?v=JQT9sT1YuAI)
 	- [ ] [GSAP Flip](https://www.youtube.com/watch?v=hPiFF8Jtezk)
+	- [ ] Check how to blender make [cricre of matrix](https://www.youtube.com/watch?v=w05qAbUEsD8&t=8s)
 - [ ] Android
 	- [x] install android studio
 	- [x] new app hello world
@@ -25,7 +26,7 @@
 	- [ ] cách custom cursor blinking css, js
 
 
-
+- [ ] Quy trình thiết kế UI/UX [Ở đây](https://www.youtube.com/watch?v=90x66VIl5YY)
 
 - [x] cài đặt office
 - [ ] read brief math
