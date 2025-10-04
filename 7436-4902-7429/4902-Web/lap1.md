@@ -5,3 +5,5 @@ tags:
   - Command
   - IT
 ---
+
+ClassDiagram
