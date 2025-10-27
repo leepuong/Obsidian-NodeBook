@@ -7,5 +7,5 @@ tags:
 	- Limit Surface: True
 	- ![[image-6 1.png]]
 	- Limit Surface: False
-	- ![[image-7.png|447x435]]
+	- ![[image-7 1.png|447x435]]
 	- 

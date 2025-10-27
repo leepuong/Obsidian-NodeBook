@@ -1,3 +1,7 @@
+---
+tags:
+  - Math-7429
+---
 
 
 [More](https://help.obsidian.md/advanced-syntax#Math)
@@ -105,11 +109,16 @@ $$(\frac{\sqrt x}{y^3})$$(\frac{\sqrt x}{y^3})
 $$\frac{a+1}{b+1} <=> {a+1\over b+1}$$
 \frac{a+1}{b+1} <=> {a+1\over b+1}
 $$\left(\frac{\sqrt x}{y^3}\right)$$\left(\frac{\sqrt x}{y^3}\right)
-$$\left.x^2\right\rvert_3^5 = 5^2-3^2$$\left.x^2\right\rvert_3^5 = 5^2-3^2
+$$\left.x^2\right\rvert_3^5 = 5^2-3^{2}$$\left.x^2\right\rvert_3^5 = 5^2-3^{2}
 
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 **\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+$$2m = \sum_{v \in V} deg(v)$$
+2m = \sum_{v \in V} deg(v)
+
+
+$$ \begin{bmatrix} a & b & c \\ d & e & f \\ g & h & i \end{bmatrix} $$ $$ \begin{Bmatrix} a & b & c \\ d & e & f \\ g & h & i \end{Bmatrix} $$ $$ \begin{vmatrix} a & b & c \\ d & e & f \\ g & h & i \end{vmatrix} $$ $$ \begin{Vmatrix} a & b & c \\ d & e & f \\ g & h & i \end{Vmatrix} $$ $$ \begin{matrix} a & b & c \\ d & e & f \\ g & h & i \end{matrix} $$ $$ \begin{pmatrix} a & b & c \\ d & e & f \\ g & h & i \end{pmatrix} $$
 
 
 $A \cap B \cap C$

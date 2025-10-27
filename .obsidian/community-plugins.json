@@ -9,5 +9,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "fast-text-color",
-  "media-slider"
+  "media-slider",
+  "obsidian-completr",
+  "inline-math"
 ]

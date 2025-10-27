@@ -3,7 +3,6 @@ tags:
   - JS
   - Functions
 ---
-*Trường hợp cần chuyển đổi kiểu dữ liệu
 ví dụ như từ **String** sang **int**
 
 

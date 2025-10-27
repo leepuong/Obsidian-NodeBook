@@ -46,13 +46,47 @@ $$
 **Prefix & Posfix**
 - a *++* , a *--*     -->  **Posfix**
 - *++* a, *--* a      -->  **Prefix**
+- Đối với *Posfix* thì giá trị thường được thay đổi sau khi quá trình tính toán và sử dụng hoàn thành, cho nên giá trị được sử dụng không phải là giá trị sau khi thực hiện *Posfix* mà là giá trị trước khi *posfix*.
 
 **Precedence**
-- *Step 1:* **Prefix**
-- *Step 2:* **Phép toán khác**
-- *Step 3:* **Gán giá trị cho biến bên trái dấu =**
-- *Step 4:* **Posfix**
+- *Step 1:* **Prefix** ^737316
+- *Step 2:* **Phép toán khác** ^6ce668
+- *Step 3:* **Gán giá trị cho biến bên trái dấu =** ^ed9e07
+- *Step 4:* **Posfix** ^29dfa9
 
 ```js
-let a 
+let a = 1
+let b = 2
+let c = a++ - ++b +1
 ```
+
+[[#^737316]]$$
+\begin{aligned}
+Step1: ++b, b = 2 \\
+<=> b = b +1 \\
+=> b = 3
+\end{aligned}
+$$
+[[#^6ce668]]$$
+\begin{aligned}
+Step2: a = 1, b = 3 \\
+<=> a - b +1 \\
+<=> 1 - 3 + 1\\
+=> -1
+\end{aligned}
+$$
+[[#^ed9e07]]$$
+\begin{aligned}
+Step3: c = -1
+\end{aligned}
+$$
+[[#^29dfa9]]$$
+\begin{aligned}
+Step4: a++, a =1\\
+<=> a = a + 1\\
+=> a = 2
+\end{aligned}
+$$
+
+
+

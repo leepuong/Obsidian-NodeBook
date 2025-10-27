@@ -73,7 +73,7 @@ tags:
 **Shift + A**
 **Mesh -> Operations -> Subdivision Surface**
 
-![[image-8.png]]
+![[image-8 1.png]]
 
 
 

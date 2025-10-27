@@ -16,6 +16,6 @@ prompt("input your name here: ","lephuong")
 keyword("tilet", "defaut value (optional)")
 ```
 
-![[image-3.png]]
+![[image-3 3.png]]
 
 

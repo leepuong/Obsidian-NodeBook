@@ -4,7 +4,7 @@ tags:
   - Geometry
 ---
 kết hợp các hình học được tạo riêng biệt thành một hình học duy nhất. Nếu đầu vào hình học chứa các kiểu dữ liệu khác nhau, thì đầu ra cũng sẽ chứa các kiểu dữ liệu khác nhau.
-![[image-9.png]]
+![[image-9 1.png]]
 
 ## Materials
 - khi đưa nhiều **mesh** vào **node**, mỗi mesh có **materials** khác nhau, **Blender** sẽ tự động gộp **material slots**, và **mesh** đầu ra sẽ chứa tất cả các **vật liệu từ mesh thành phần**. 

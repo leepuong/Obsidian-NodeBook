@@ -1,3 +1,7 @@
+---
+tags:
+  - Math-7429
+---
 
 
 2. Let A = {a, b, c, d, e} and B = {a, b, c, d, e, f, g, h}. Find 
@@ -43,3 +47,7 @@ $$\Rightarrow \quad f(x) = \frac{6-x}3 $$
 
 
 
+###### Graphs
+
+$$2m = \sum_{v \in V} deg(v)$$
+$$\sum_{v \in V} deg^- (v) = \sum_{v \in V} deg^+ (v) =|E|$$
