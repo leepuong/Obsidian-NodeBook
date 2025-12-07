@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "181471617024dd79",
+        "id": "8ca8b0d578b80fd7",
         "type": "tabs",
         "children": [
           {
-            "id": "803d293c4dd11136",
+            "id": "c1a58a06a69bba1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7436-4902-7429/7429-Math/ASM.md",
+                "file": "7436-4902-7429/7429-Math/Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASM"
-            }
-          },
-          {
-            "id": "0f623ada58ca6bb5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "7436-4902-7429/7429-Math/display.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "display"
-            }
-          },
-          {
-            "id": "1d76b27d23f8e16e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "7436-4902-7429/7429-Math/display.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "display"
+              "title": "Presentation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +33,6 @@
       {
         "id": "5c7c96ea45c9b546",
         "type": "tabs",
-        "dimension": 55.10204081632653,
         "children": [
           {
             "id": "071145cceeb8eda7",
@@ -103,12 +77,11 @@
         ]
       },
       {
-        "id": "b4ce80f8a2f6c460",
+        "id": "956058b7595389ab",
         "type": "tabs",
-        "dimension": 44.89795918367347,
         "children": [
           {
-            "id": "05f00e883afa38f7",
+            "id": "105d0bfa2681f79d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -235,51 +208,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "7a2ea1883f80d049",
+  "active": "c1a58a06a69bba1f",
   "lastOpenFiles": [
+    "7436-4902-7429/7429-Math/Presentation.md",
     "7436-4902-7429/7429-Math/display.md",
-    "7436-4902-7429/7429-Math/ASM.md",
-    "7436-4902-7429/7429-Math/Công thức.md",
+    "image-2.png",
+    "image-1.png",
+    "image.png",
     "Today.md",
-    "7436-4902-7429/4902-Web/DRAW.md",
-    "7436-4902-7429/7429-Math/lap.md",
+    "7436-4902-7429/7436-Android/ANDROID.md",
+    "LastRouns/roadmap.md",
     "NextStep.md",
     "Draw_BITC.md",
+    "img/temp/Pasted Image 20251117122600_105.png",
+    "7436-4902-7429/7436-Android/Draw.md",
+    "7436-4902-7429/7429-Math/ASM.md",
+    "img/temp/Drawing 2025-10-05 01.34.05.excalidraw.md",
+    "img/temp/Pasted Image 20251013185558_639.png",
+    "img/temp/image 3.png",
+    "img/temp/image 1.png",
+    "7436-4902-7429/7429-Math/lap.md",
+    "7436-4902-7429/7429-Math/Công thức.md",
+    "7436-4902-7429/4902-Web/DRAW.md",
     "img/temp/Pasted Image 20251013185405_279.png",
-    "LastRouns/roadmap.md",
     "LastRouns",
     "img/temp/Pasted Image 20251013185620_669.png",
     "img/temp/Pasted Image 20251013185609_475.png",
-    "img/temp/Pasted Image 20251013185558_639.png",
-    "img/temp/Pasted Image 20251013185542_290.png",
-    "img/temp/Pasted Image 20251013185514_069.png",
-    "img/temp/Pasted Image 20251013185422_494.png",
     "IT/JS/Functions/Functions.md",
-    "img/temp/Drawing 2025-10-05 01.34.05.excalidraw.md",
-    "img/temp/Pasted Image 20251005013528_334.png",
-    "img/temp/Pasted Image 20251005005543_707.png",
     "BITC.md",
     "IT/JS/Notes/Add js to html.md",
     "Tool/Color Tool.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "img/temp/image-28.png",
     "Game/TFT.md",
     "IT/JS/Functions/Parse and Convert.md",
     "IT/JS/Functions/Prompt().md",
     "IT/JS/Functions/toString().md",
     "IT/JS/Functions/TypeOf.md",
     "IT/JS/Notes/Math.md",
-    "IT/JS/Notes/Quy tắc đặt tên.md",
-    "IT/JS/Notes/Variable.md",
-    "IT/JS/Notes/Snippet.md",
     "IT/JS/Functions",
     "IT/JS/Notes",
     "IT/JS",

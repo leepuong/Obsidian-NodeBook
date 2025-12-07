@@ -23,3 +23,21 @@ ERD
 
 
 
+
+FLOW: 
+
+
+home page: 
+
+~~lúc "thêm chi tiêu" có được sửa thời gian không (thêm 1 btn dropdown, cho phép chỉnh sửa nhiều hơn)~~ vì đã loại bỏ "chi tiêu định kì" nên số option phụ đã giảm.
+vì không lưu time expense trong db bao gồm hh;mm;ss mà chỉ là dd;mm;yy nên việc chỉnh sửa thời gian là không qá cần thiết(có thể thêm trong edit expense history)
+
+
+
+thêm nhanh, 
+- chọn category (dropbox) 
+- nhập số tiền (text fields)
+- btn thêm (btn)
+- 
+
+

@@ -41,3 +41,7 @@
 
 
 
+- [ ] code BITC invite you
+- [ ] *Fix* **Invited You** thay chữ "Invited you" thành tuyển thành viên
+- [ ] *Change* **One day left** thay đổi chiều rộng của cánh cửa cho giống số 1,  "Day left" thay cho "Tuyển thành viên"
+- [ ] *Change* **Close** loại bỏ cánh cửa, thay chữ bằng "Door closed".
