@@ -6,7 +6,7 @@
 Xin chào thầy và các bạn, mình là Lê Xuân Phương StudentID BD00657, đại điện nhóm 3 lên đây để chia sẻ với mọi người một chủ đề:
 chủ đề đó mang tên: **Ứng dụng của Lý thuyết nhóm trong đồ họa máy tính**
 
-*Tatble of content*
+*Table of content*
 1. giới thiệu
 2. lý thuyết cơ bản của lý thuyết nhóm.
 3. ứng dụng lý thuyết nhóm
@@ -38,7 +38,7 @@ trước khi tiếp tục chủ đề chúng ta cần nắm 1 số lý thuyết 
 Tiếp theo là **Identity Element** nói rằng: trong 1 nhóm Luôn tồn tại một phần tử e sao cho: a . e = e . a = a. với mọi a thuộc G.
 
 *slide8*
-lý thuyết **Inverse Element**: nếu mỗi phần tử a thuộc G đều có 1 nghịc đảo a^-1 thỏa: a∗(a^−1)=(a^−1)∗a=e
+lý thuyết **Inverse Element**: với mỗi phần tử a thuộc G thì đều có 1 nghịch đảo a^-1 thỏa: a∗(a^−1)=(a^−1)∗a=e
 
 **Slide0 return table of content**
 
@@ -51,12 +51,88 @@ lý thuyết **Inverse Element**: nếu mỗi phần tử a thuộc G đều có
 	nếu không quản lý đúng, vật thể có thể bị biến dạng, lỗi gimbal lock, hoặc mất ổn định...
 
 *Slide10*
-Khi này, Lý thuyết nhóm cung cấp khuôn khổ toán học giúp:  
+Khi này, ta thấy được lợi ích của Lý thuyết nhóm khi nó cung cấp khuôn khổ toán học giúp:  
 	Biểu diễn phép quay một cách có hệ thống.  
 	Kết hợp nhiều phép quay dễ dàng.  
 	Đảm bảo không làm thay đổi kích thước hay hình dạng vật thể.  
 	Giữ được tính ổn định khi lặp lại phép quay nhiều lần.
 
 	👉 TẤT CẢ các phép quay trong không gian 3D đều tạo thành một nhóm phép quay.
+vậy bài toán này thì đó là nhóm nào.
 
 *Slide11*
+Nhóm quay SO(3) hay Special Orthogonal Group in 3 dimensions
+bao gồm các ma trận 3x3 thảo mãn định thức = 1.
+- Đây chính là tập hợp tất cả các phép quay có thể xảy ra trong bài toán này.
+bên cạnh đó, bài toán có sử dụng các phép toán, như 1 số dưới đây.
+
+*Slide12*
+
+R_total = Rz(θ3) · Ry(θ2) · Rx(θ1)
+→ Đây chính là phép toán nhân trong nhóm SO(3).
+
+và 
+*Slide13*
+Phần tử nghịch đảo.
+R⁻¹ = Rᵀ 
+→ Xoay ngược lại một góc.
+
+*return to table of content*
+và vừa rồi là 1 phần nhỏ ứng dụng của lý thuyết nhóm với lĩnh vực Computer Science nói chung và Computer Graphics nói riêng.
+vậy còn những lợi ích nào khi ứng dụng lý thuyết nhóm hay không
+có.
+
+*Slide14*
+1. Xử lý các phép biến đổi (Transformations) một cách chặt chẽ và nhất quán.  
+- Group theory đảm bảo các phép quay, tịnh tiến, co giãn…  
+- luôn kết hợp được với nhau (associativity).  
+- luôn có phép ngược.  
+- có phần tử đơn vị (không đổi).  
+→ Giúp dựng hình 2D/3D ổn định, không lỗi.  
+
+2. Tối ưu hóa xử lý hình học và animation  
+- Nhờ quy tắc nhóm, các biến đổi có thể:  
+- chia nhỏ thành nhiều biến đổi đơn giản  
+- kết hợp lại một cách nhất quán  
+- tối ưu pipeline (như graphics transformation pipeline)  
+→ Giảm tính toán, tăng tốc độ render.  
+  
+3. Mô phỏng đối xứng và mô hình phức tạp  
+- Group Theory giúp mô tả và tạo ra:  
+- đối xứng hình học (symmetry groups)    
+- họa tiết lặp (pattern, tiling, wallpaper groups)  
+- mô hình fractal, texture procedural  
+→ Tạo vật thể tự nhiên, mô hình lặp đẹp và chính xác.  
+  
+4. Ứng dụng mạnh trong Rigging & Animation  
+- Transformations theo nhóm dùng để:  
+- blend chuyển động  
+- xử lý skeleton animation  
+- điều khiển joints/khớp theo các phép quay (group action)  
+→ Chuyển động nhân vật mượt, tự nhiên, không bị méo hình.
+
+5. Dễ dàng quản lý Camera và Object Movement  
+- Camera transformation = một nhóm các phép biến đổi.  
+- Nhờ Group Theory, ta có thể:  
+- chuyển đổi góc nhìn đúng  
+- kết hợp nhiều phép quay/dịch chuyển của camera  
+- tránh lỗi do thứ tự biến đổi  
+
+6. Bảo đảm tính ổn định khi mô phỏng  
+- Các tính chất của nhóm (identity, inverse, closure…)  
+→ đảm bảo các phép biến đổi không gây lỗi tích lũy (numerical stability).
+
+tất nhiên không có thứ gì hoàn toàn hoàn hả 
+đi cũng những lợi ích mà lý thuyết nhóm mang lại thì còn bao gồm khó khăn lẫn giới hạn, như:
+
+*Slide15*
+1. Tính trừu tượng cao.
+2. Không xử lý tốt các biến dạng phi tuyến.
+3. Rotations trong 3D rất phức tạp.
+4. Các nhóm Lie (SO(3), SE(3)) yêu cầu kiến thức cao.
+5. Giới hạn trong mô phỏng thực tế.
+
+và đó là những lời gần cuối của phần trình bày này, 
+
+*Slide16*
+và lời cuối cùng cảm ơn mọi người đã lẵng nghe phần thuyết trình này.

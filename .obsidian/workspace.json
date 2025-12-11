@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7436-4902-7429/7429-Math/Presentation.md",
+                "file": "Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
+              "title": "Today"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 298.5
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,44 +215,44 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c1a58a06a69bba1f",
+  "active": "105d0bfa2681f79d",
   "lastOpenFiles": [
-    "7436-4902-7429/7429-Math/Presentation.md",
-    "7436-4902-7429/7429-Math/display.md",
-    "image-2.png",
-    "image-1.png",
-    "image.png",
     "Today.md",
+    "7436-4902-7429/4902-Web/ASM.md",
+    "BITC.md",
+    "Draw_BITC.md",
+    "image-6.png",
+    "image-1.png",
+    "image-2.png",
+    "image.png",
+    "NextStep.md",
+    "Test obsidian/Markdown.md",
+    "7436-4902-7429/4902-Web/authen.md",
+    "7436-4902-7429/4902-Web/lap1.md",
+    "7436-4902-7429/7429-Math/Presentation.md",
+    "image-5.png",
+    "image-4.png",
+    "image-3.png",
+    "7436-4902-7429/7429-Math/display.md",
     "7436-4902-7429/7436-Android/ANDROID.md",
     "LastRouns/roadmap.md",
-    "NextStep.md",
-    "Draw_BITC.md",
     "img/temp/Pasted Image 20251117122600_105.png",
     "7436-4902-7429/7436-Android/Draw.md",
     "7436-4902-7429/7429-Math/ASM.md",
     "img/temp/Drawing 2025-10-05 01.34.05.excalidraw.md",
     "img/temp/Pasted Image 20251013185558_639.png",
     "img/temp/image 3.png",
-    "img/temp/image 1.png",
     "7436-4902-7429/7429-Math/lap.md",
     "7436-4902-7429/7429-Math/Công thức.md",
     "7436-4902-7429/4902-Web/DRAW.md",
-    "img/temp/Pasted Image 20251013185405_279.png",
     "LastRouns",
-    "img/temp/Pasted Image 20251013185620_669.png",
-    "img/temp/Pasted Image 20251013185609_475.png",
     "IT/JS/Functions/Functions.md",
-    "BITC.md",
     "IT/JS/Notes/Add js to html.md",
     "Tool/Color Tool.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Game/TFT.md",
     "IT/JS/Functions/Parse and Convert.md",
-    "IT/JS/Functions/Prompt().md",
-    "IT/JS/Functions/toString().md",
-    "IT/JS/Functions/TypeOf.md",
-    "IT/JS/Notes/Math.md",
     "IT/JS/Functions",
     "IT/JS/Notes",
     "IT/JS",

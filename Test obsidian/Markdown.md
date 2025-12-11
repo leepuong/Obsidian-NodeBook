@@ -41,4 +41,9 @@ tags:
 - [ ] Check box
 - [x] Check box  
 
+	table
 
+| First name | Last name |
+| ---------- | --------- |
+| Max        | Planck    |
+| Marie      | Curie     |

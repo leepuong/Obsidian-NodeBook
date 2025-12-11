@@ -11,7 +11,7 @@
 	- [ ] ~={red}check course animation=~ [How to Animate ANYTHING](https://www.youtube.com/watch?v=JQT9sT1YuAI)
 	- [ ] [GSAP Flip](https://www.youtube.com/watch?v=hPiFF8Jtezk)
 	- [ ] Check how to blender make [cricre of matrix](https://www.youtube.com/watch?v=w05qAbUEsD8&t=8s)
-	- [ ] check layout trending [2025](https://www.youtube.com/watch?v=fn-r5m6omvE)
+	- check layout trending [2025](https://www.youtube.com/watch?v=fn-r5m6omvE)
 - [ ] Android
 	- [x] install android studio
 	- [x] new app hello world
@@ -41,7 +41,13 @@
 
 
 
-- [ ] code BITC invite you
-- [ ] *Fix* **Invited You** thay chữ "Invited you" thành tuyển thành viên
-- [ ] *Change* **One day left** thay đổi chiều rộng của cánh cửa cho giống số 1,  "Day left" thay cho "Tuyển thành viên"
-- [ ] *Change* **Close** loại bỏ cánh cửa, thay chữ bằng "Door closed".
+- [ ] ~~code BITC invite you~~
+- [ ] ~~*Fix* **Invited You** thay chữ "Invited you" thành tuyển thành viên~~
+- [ ] ~~*Change* **One day left** thay đổi chiều rộng của cánh cửa cho giống số 1,  "Day left" thay cho "Tuyển thành viên"~~
+- [ ] ~~*Change* **Close** loại bỏ cánh cửa, thay chữ bằng "Door closed".~~
+
+
+
+
+
+
