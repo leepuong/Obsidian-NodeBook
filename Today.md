@@ -48,6 +48,6 @@
 
 
 
-
-
-
+-----
+- [ ] Project1: Task maanagement app (to do app adv)
+- [ ] Project2: Personal Finance Dashboard (Quản lý chi tiêu cá nhân)cv 
