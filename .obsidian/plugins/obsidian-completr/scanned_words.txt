@@ -110,6 +110,7 @@ pOp
 pT
 pD
 pIT
+paste
 tags
 to
 the
@@ -250,6 +251,7 @@ Sf
 Start
 Shot
 Space
+Steam
 EXCALIDRAW
 Excalidraw
 Elements
@@ -293,6 +295,7 @@ Environment
 Ef
 EN
 End
+Excel
 VIEW
 VgNZnRGO
 VXq
@@ -464,6 +467,8 @@ Oc
 Only
 On
 ORB
+Office
+Obsidian
 menu
 more
 mxidTnwK
@@ -764,6 +769,7 @@ DK
 DjQ
 Di
 DeathMatch
+Document
 with
 wpUJnOE
 wvaYT
@@ -902,6 +908,7 @@ Fop
 FVdB
 Fq
 Flick
+Foundation
 settings
 saRKLm
 sr
@@ -1071,6 +1078,7 @@ lWww
 lxJ
 lp
 lYD
+laptop
 Text
 TmpxXKaK
 TEB
@@ -1124,6 +1132,7 @@ Tf
 Tips
 TutoTag
 Tap
+Tft
 JZrltzPO
 JiJZYf
 JsNU
@@ -1160,6 +1169,7 @@ JS
 JSON
 JW
 Jett
+JDownloader
 WlYtgANK
 WsE
 WSQqgrOY
@@ -1205,6 +1215,7 @@ WS
 WT
 Wps
 WorkShop
+Word
 aRKx
 auy
 aKBBWiq
@@ -1360,6 +1371,8 @@ CA
 Cbg
 Cf
 Cu
+Cursor
+Chrome
 Qsx
 QFo
 Qe
@@ -1426,6 +1439,7 @@ hh
 history
 hay
 hold
+here
 IA
 IN
 ICwHUKkb
@@ -1673,6 +1687,8 @@ AxF
 Acr
 Aim
 And
+App
+AppData
 NIsPStLD
 NNPOTWml
 NZazvFhd
@@ -1803,6 +1819,7 @@ bGt
 bas
 baOJ
 bot
+backup
 RFndABh
 RGk
 RD
@@ -1852,6 +1869,7 @@ RBh
 RK
 Rs
 RV
+Riot
 XoXG
 Xd
 XI
@@ -2007,6 +2025,7 @@ Bundlers
 Backend
 Bi
 Bot
+Brower
 jKGBxloV
 jh
 jd
@@ -2085,6 +2104,7 @@ GdF
 GYC
 Gr
 Glide
+Game
 PMjsVxZs
 Profile
 PNG
@@ -2128,6 +2148,9 @@ PL
 Pb
 PY
 Pi
+Plugin
+Photoshop
+Photopea
 xxR
 xlMI
 xr
