@@ -47,3 +47,8 @@ tags:
 | ---------- | --------- |
 | Max        | Planck    |
 | Marie      | Curie     |
+
+
+[[#^6b5efb]]
+link in doc ^6b5efb
+
