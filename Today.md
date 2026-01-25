@@ -35,6 +35,9 @@
 - [ ] P1, P2 android
 
 
+
+
+
 - [ ] ~~code BITC invite you~~
 - [ ] ~~*Fix* **Invited You** thay chữ "Invited you" thành tuyển thành viên~~
 - [ ] ~~*Change* **One day left** thay đổi chiều rộng của cánh cửa cho giống số 1,  "Day left" thay cho "Tuyển thành viên"~~

@@ -66,5 +66,30 @@ paste folder 4.4 here
 
 
 
+##### LIST APP 
+- [ ] [Cron](https://www.cron.com/)
+- [ ] [CurseForge](https://www.curseforge.com/)
+- [ ] [DaVinciResolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [ ] [EveryThing](https://www.voidtools.com/downloads/)
+- [ ] [Fliplo](https://fliqlo.com/screensaver/)
+- [ ] [FlowLauncher](https://www.flowlauncher.com/)
+- [ ] [FontForge](https://fontforge.org/en-US/)
+- [ ] [InterAccel](https://github.com/KovaaK/InterAccel)
+- [ ] [JDownLoader2](https://jdownloader.org/jdownloader2)
+- [ ] [JDownLoader](https://jdownloader.org/)
+- [ ] [Krita](https://krita.org/en/)
+- [ ] [Obsidian](https://obsidian.md/)
+- [ ] [Ollama](https://ollama.com/)
+- [ ] [PureRef](https://www.pureref.com/download.php)
+- [ ] [ResHacker](https://github.com/qb40/resource-hacker)
+- [ ] [RWCursorEditor](https://www.rw-designer.com/cursor-maker)
+- [ ] [ValorantPorting](https://github.com/Ka1serM/ValorantPorting)
+- [ ] [VKTableDriver](https://veikk.com/route/v2/support/download?srsltid=AfmBOoqqZl3XdsRv1fDKXk5t-Cjzdokrc5jOeAgf_EBDSZwQCi8unhqC)
+- [ ] [VoiceAi](https://voiceai.vn/)
+- [ ] [Warp](https://www.warp.dev/)
+- [ ] [Valorant](https://valorant.vnggames.com/vi-vn/fps-trendy-for-gen-z-1/?utm_source=Google&utm_medium=GenZ&utm_campaign=VAL%7C465%7CGG%7CDG%7CPC%7CUA%7CNEW%7CPER%7C0151%7COtherCity_GenZ_LD1&gad_source=1&gad_campaignid=22604977418&gbraid=0AAAAA_K1ykgsutR61aOwtsL1isnNc7lnw&gclid=Cj0KCQiAprLLBhCMARIsAEDhdPfcORPwW9sxEuONQZXZ5Dq4VV3P7r17g77P6iD60C5YU2xBygv-jBEaArTWEALw_wcB)
+
+
+
 #### Document
 ![[HTTP.txt]]
