@@ -85,21 +85,11 @@ Lorem ipsum <mark>dolor</mark>, sit amet consectetur adipisicing elit. Sint dese
 
 
 ###### meter
-```HTML
+
 <body>
 	<meter value="37" min="0" max="100"></meter>
+	XIN CHAO
 </body>
-```
-<meter value="37" min="0" max="100"></meter>
 
-
-
-###### progress
-```HTML
-<body>
-	<progress value="43" max="100"></progress>
-</body>
-```
-<progress value="43" max="100"></progress>
 
 

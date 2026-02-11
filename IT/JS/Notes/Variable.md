@@ -19,6 +19,7 @@ var yourName
 var yourName = "lepuong"
 let yourAge = "halfALife"
 const real = 21
+//đối với const thì không được phép gán lại cho giá trị khác
 ```
 
 ###### *Export variable*

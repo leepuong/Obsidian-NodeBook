@@ -61,7 +61,7 @@ chức năng add friend
 	- chọn agent
 	- tạo team
 	- ...
-- 2.2 đối tượng là các người chơi game V. admin quản lý website.
+- 2.2 đối tượng là các người chơi game V. admin quản lý website. (có 1 số role sử dụng trong thời gian phát triển: DatabaseController, UserController,...)
 - **Problem Statement**
 	- Hiện nay, game V là game bắn súng chiến thuật số 1 thế giới, không chỉ có những kỹ năng thuần aim, mà còn là những chiến thuật tấn công phòng thủ độc đáo với các bộ kỹ năng của các agent. Nhưng vấn đề thảo luận chiến thuật cũng chỉ thông qua lời nói trong game, nó rời rạc đẫn đến khó định hình và khó quản lý.
 	- Do đó công cụ của chúng tôi sinh ra nhằm tạo ra không gian tăng hiệu xuất, tăng sức nắm bắt khi bàn chiến thuật với nhiều công cụ trực quan hóa.
@@ -99,7 +99,20 @@ t = 0
 
 
 
-[[LegoSNARK_Modular_Design_and_Composition_of_Succinct_Zero-Knowledge_Proofs.pdf#page=2&selection=0,0,1,31&color=note|LegoSNARK_Modular_Design_and_Composition_of_Succinct_Zero-Knowledge_Proofs, p.2]]
+[[Q0 LegoSNARK_Modular_Design_and_Composition_of_Succinct_Zero-Knowledge_Proofs.pdf#page=2&selection=0,0,1,31&color=note|LegoSNARK_Modular_Design_and_Composition_of_Succinct_Zero-Knowledge_Proofs, p.2]]
 ##### Abstract
 - chúng tôi xây dựng các modul có thể kết hợp với nhau như việc lắp ghép lego.
-- 
+
+
+
+
+
+
+
+
+
+
+
+
+0. Abstact
+	1. 

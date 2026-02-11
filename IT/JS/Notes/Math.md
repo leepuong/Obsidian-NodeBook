@@ -89,4 +89,9 @@ Step4: a++, a =1\\
 $$
 
 
-
+##### toán tử 3 ngôi **(ternary)**
+```js
+index != -1 
+	? console.log('!= -1')
+	: console.log('-1')
+```
