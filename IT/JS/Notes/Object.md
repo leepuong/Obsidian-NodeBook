@@ -62,6 +62,7 @@ console.log(person["firstName"]);
 const copyPerson = Object.assign({}, person)
 console.log(copyPerson)
 ```
+
 - **_Object.keys_:** Lấy **key** hoặc **property** thành mảng
 ```js
 //tạo thành mảng chứa key
@@ -72,12 +73,14 @@ console.log(keys) //['name', 'age', 'country', 'skills', 'address', 'getPersonIn
 const address = Object.keys(copyPerson.address)
 console.log(address) //['street', 'pobox', 'city']
 ```
+
 - **_Object.values_:** Lấy **value** thành mảng
 ```js
 const values = Object.values(copyPerson)
 console.log(values)
 ```
-- **_Object.values_:** Lấy key và value thành mảng
+
+- **_Object.entries_:** Lấy **key** và **value** thành mảng
 ```js
 const entries = Object.entries(copyPerson)
 console.log(entries)
@@ -93,6 +96,7 @@ console.log(entries)
 //['isMarried', true]
 //['getPersonInfo', ƒ]
 ```
+
 - **_Object.hasOwnProperty_:** kiểm tra 1 **key** hoặc **property** có tồn tại trong **object** không
 ```js
 console.log(copyPerson.hasOwnProperty('name'))

@@ -14,5 +14,23 @@
       ],
       "key": " "
     }
+  ],
+  "obsidian-shellcommands:shell-command-p9a1z2r7yw": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-09yk16c9z1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }
