@@ -11,14 +11,12 @@
             "id": "801cddc6339d70c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IT/React/30-Days-Of-React-master/React/07_class_components.md",
-                "mode": "source",
-                "source": false
+                "file": "7425/draw.md"
               },
-              "icon": "lucide-file",
-              "title": "07_class_components"
+              "icon": "excalidraw-icon",
+              "title": "draw"
             }
           }
         ]
@@ -96,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -201,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +221,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "df52602f1dba8a20",
+  "active": "801cddc6339d70c0",
   "lastOpenFiles": [
     "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
+    "7425/draw.md",
+    "Pasted Image 20260306221424_794.png",
+    "Pasted Image 20260306221326_211.png",
+    "7425/Đề tài.md",
+    "7425/giải thích dự án.md",
     "IT/React/30-Days-Of-React-master/React/06_map_list_keys.md",
+    "IT/React/30-Days-Of-React-master/React/07_class_components_vi.md",
+    "IT/React/30-Days-Of-React-master/React/07_class_components.md",
     "IT/React/30-Days-Of-React-master/React/03_setting_up.md",
     "IT/React/30-Days-Of-React-master/React/01_javascript_refresher.md",
     "IT/React/30-Days-Of-React-master/React/02_introduction_to_react.md",
@@ -238,8 +244,6 @@
     "IT/React/30-Days-Of-React-master/images/vue_repo_1_oct_2020.png",
     "IT/React/30-Days-Of-React-master/images/vsc_live_server.png",
     "IT/React/30-Days-Of-React-master/images/vscode_ui.png",
-    "IT/React/30-Days-Of-React-master/images/vscode.png",
-    "IT/React/30-Days-Of-React-master/images/user_card_design_jsx.png",
     "IT/React/30-Days-Of-React-master/images",
     "IT/React/30-Days-Of-React-master/React/30_conclusions.md",
     "IT/React/30-Days-Of-React-master/React/28_project.md",
@@ -256,12 +260,6 @@
     "IT/React/30-Days-Of-React-master/React/18_fetch_axios.md",
     "IT/React/30-Days-Of-React-master/React/17_react_router.md",
     "IT/React/30-Days-Of-React-master/React/16_higher_order_component.md",
-    "IT/React/30-Days-Of-React-master/React/15_third_party_packages.md",
-    "IT/React/30-Days-Of-React-master/React/14_component_life_cycles.md",
-    "IT/React/30-Days-Of-React-master/React/13_uncontrolled_input.md",
-    "IT/React/30-Days-Of-React-master/React/12_forms.md",
-    "IT/React/30-Days-Of-React-master/React/11_events.md",
-    "IT/React/30-Days-Of-React-master/React/10_react_project_folder_structure.md",
     "IT/React/30-Days-Of-React-master",
     "IT/React",
     "7425/Paper/Q0 Do_You_Need_a_Zero_Knowledge_Proof.pdf",

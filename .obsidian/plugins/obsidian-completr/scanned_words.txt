@@ -435,6 +435,9 @@ easier
 emergence
 extract
 email
+elliptic
+ero
+ezdWE
 plugin
 parsed
 palette
@@ -913,6 +916,12 @@ purpose
 properly
 powerful
 phone
+private
+password
+proving
+prover
+party
+pairing
 tags
 to
 the
@@ -1364,6 +1373,13 @@ transpiler
 transpiles
 things
 transpile
+trusted
+token
+trao
+toxic
+trung
+tsxIoa
+tgcAK
 Switch
 Saving
 SNnlwzWx
@@ -1818,6 +1834,12 @@ Spread
 Since
 Statistics
 Started
+SNARK
+SHA
+Sai
+Soundness
+Succinctness
+Setup
 EXCALIDRAW
 Excalidraw
 Elements
@@ -2225,6 +2247,7 @@ Ethiopia
 ETHIOPIA
 Explain
 Everything
+Explained
 VIEW
 VgNZnRGO
 VXq
@@ -2664,6 +2687,8 @@ Vys
 VDSU
 Visual
 Virtual
+Verify
+Verifier
 in
 info
 iT
@@ -3137,6 +3162,7 @@ inner
 invalid
 injection
 injected
+integration
 MORE
 MasUALr
 MV
@@ -3523,6 +3549,10 @@ Microsoft
 Meat
 May
 Many
+Membership
+Multiply
+Multi
+MCsjzqLZ
 OPTIONS
 OSrN
 OhI
@@ -4363,6 +4393,9 @@ mentioned
 mini
 managed
 muscle
+modularity
+mili
+mod
 of
 ohwFtHlB
 oUJTTOhk
@@ -5252,6 +5285,7 @@ doing
 designed
 dummy
 declaring
+database
 You
 YJu
 Yf
@@ -5626,6 +5660,7 @@ YKs
 Yetayeh
 Your
 YellowColor
+YtH
 can
 command
 current
@@ -6212,6 +6247,17 @@ creates
 challenges
 composed
 chose
+circuit
+constraint
+combine
+composition
+combined
+commitment
+client
+cong
+constraints
+circom
+clAnC
 Drawing
 Decompress
 Data
@@ -6601,6 +6647,9 @@ During
 Denmark
 Defining
 Dog
+Demo
+DXTLYT
+DxC
 with
 wpUJnOE
 wvaYT
@@ -6994,6 +7043,7 @@ who
 watchers
 wrapped
 wrapping
+waste
 file
 fSYvhatB
 faculty
@@ -7425,6 +7475,10 @@ forks
 flexible
 fontSize
 formatted
+fail
+fDp
+fgog
+fsYPwT
 For
 Files
 FLMr
@@ -7843,6 +7897,8 @@ Facebook
 Finland
 From
 February
+File
+FPga
 settings
 saRKLm
 sr
@@ -8429,6 +8485,9 @@ subtitles
 subtitle
 solid
 says
+soundness
+snarkjs
+secret
 under
 user
 uK
@@ -8830,6 +8889,8 @@ useState
 utility
 update
 updates
+uccinct
+uUhmZbTn
 lap
 lv
 lvrwy
@@ -9275,6 +9336,8 @@ linked
 lot
 label
 lists
+limiting
+lGfHt
 Text
 TmpxXKaK
 TEB
@@ -9677,6 +9740,13 @@ Technical
 Troubleshooting
 Tea
 Temperature
+Tri
+Trusted
+Tau
+Trung
+Tamper
+TEH
+TFZclf
 JZrltzPO
 JiJZYf
 JsNU
@@ -10043,6 +10113,8 @@ Jul
 Japan
 Joining
 JavScript
+JOq
+JGFq
 WlYtgANK
 WsE
 WSQqgrOY
@@ -10912,6 +10984,7 @@ absolute
 arithmetic
 awesome
 ahead
+attack
 yMB
 yrnlr
 yEG
@@ -11693,6 +11766,13 @@ Calculate
 Classes
 Cat
 Commenting
+CRS
+Compose
+Client
+Checklist
+Circuit
+Constraint
+Ceremony
 Qsx
 QFo
 Qe
@@ -12428,6 +12508,9 @@ hands
 huge
 hard
 htmlFor
+hash
+hai
+hJCLMTVV
 IA
 IN
 ICwHUKkb
@@ -12828,6 +12911,7 @@ Instead
 Inheritance
 Its
 Inject
+IeuW
 qSaj
 qsqrsh
 qfmP
@@ -13693,6 +13777,9 @@ vue
 virtual
 videos
 valid
+verify
+verifying
+vkMrzQDY
 HE
 HC
 HlJKrK
@@ -14063,6 +14150,8 @@ However
 Honey
 Higher
 Here
+HAS
+HZa
 nJgul
 nSj
 nH
@@ -14458,6 +14547,9 @@ nor
 nested
 negation
 needs
+ngay
+nonce
+nowledge
 AMYUFdjA
 Aa
 Android
@@ -14965,6 +15057,7 @@ Actually
 Animal
 Additional
 Apply
+Age
 NIsPStLD
 NNPOTWml
 NZazvFhd
@@ -15327,6 +15420,9 @@ Native
 North
 Normal
 Nested
+Nonce
+NFgpROsV
+NfAP
 kmCpE
 kAjrp
 kL
@@ -15698,6 +15794,8 @@ kinds
 keep
 knew
 kind
+kZl
+kiu
 blwGFaqZ
 balance
 boolean
@@ -16545,6 +16643,8 @@ Renaming
 Rest
 Repository
 Remember
+Rate
+Rank
 XoXG
 Xd
 XI
@@ -17304,6 +17404,7 @@ greatness
 growing
 gateway
 general
+gument
 rY
 rr
 register
@@ -17754,6 +17855,8 @@ repo
 reasons
 reap
 reserved
+rebuild
+replay
 Bx
 BbDvqth
 Bh
@@ -18829,6 +18932,8 @@ GreenColor
 GrayColor
 Getting
 Green
+Giai
+Generate
 PMjsVxZs
 Profile
 PNG
@@ -19245,6 +19350,10 @@ Procedures
 Push
 Programming
 Person
+Powers
+Phase
+Paper
+PUYfEceD
 xxR
 xlMI
 xr
@@ -19616,6 +19725,7 @@ xaR
 xhj
 xanh
 xuy
+xssaY
 Links
 Lqy
 LN
@@ -20035,6 +20145,9 @@ Lives
 Level
 Linux
 Like
+Lego
+Logging
+Lkr
 zQSuSnYm
 zz
 zC
@@ -20702,6 +20815,7 @@ UserCard
 Ubuntu
 Underweight
 Unlike
+UaJ
 KU
 KB
 Khjh
@@ -21083,6 +21197,7 @@ KDw
 KuW
 KDra
 Keys
+KzCqGBwS
 ZJa
 Zp
 Zyy
@@ -21416,6 +21531,7 @@ ZhQ
 ZUa
 Zec
 ZeD
+Zmn
 Ök
 Öb
 ÖE

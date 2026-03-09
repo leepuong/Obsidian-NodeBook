@@ -112,7 +112,200 @@ t = 0
 
 
 
+# Giai đoạn 0 – Xác định mục tiêu
 
+### ❓ Hệ thống cần chứng minh điều gì?
+Ví dụ:
+- Biết mật khẩu
+- Là thành viên hợp lệ 
+- Trên 18 tuổi 
+- Sở hữu private key 
 
-0. Abstact
-	1. 
+👉 **Chỉ chọn 1 điều kiện đơn giản trước.**  
+Không xây hệ thống lớn ngay.
+
+---
+
+# Giai đoạn 1 – Hiểu và thử zero-knowledge cơ bản
+
+### ❓ Zero-knowledge proof là gì ở mức thực hành? 
+**Mục tiêu:** hiểu proof được tạo và verify như thế nào.
+
+### Việc cần làm: 
+1. Dùng một thư viện zk-SNARK đơn giản (chưa cần Lego)
+2. Viết một circuit cực nhỏ:
+
+Ví dụ: 
+Tôi biết x sao cho x * x = 25 
+3. Tạo proof 
+4. Verify proof 
+
+Nếu bạn chưa làm được bước này → chưa nên sang LegoSNARK.
+
+---
+
+# Giai đoạn 2 – Viết circuit dạng R1CS đơn giản
+
+### ❓ Làm sao chuyển logic thành ràng buộc số học? 
+**Mục tiêu:** hiểu constraint hoạt động ra sao.
+
+### Việc cần làm: 
+1. Viết một circuit kiểm tra: 
+
+hash(password) = H
+
+2. Triển khai SHA256 circuit (hoặc hash đơn giản hơn để test) 
+3. Test: 
+
+- Đúng password → proof hợp lệ 
+- Sai password → proof fail 
+
+---
+
+# Giai đoạn 3 – Tách circuit thành module (bắt đầu tư duy Lego)
+
+### ❓ Làm sao chia logic thành khối nhỏ? 
+**Mục tiêu:** hiểu modularity. 
+Ví dụ thay vì: 
+Login + Age + Membership 
+Tách thành: 
+- Module 1: Password 
+- Module 2: Age check 
+- Module 3: Merkle membership 
+
+### Việc cần làm: 
+1. Build từng circuit riêng 
+2. Test proof riêng từng module 
+3. Đảm bảo mỗi module có proving/verifying key riêng 
+
+---
+
+# Giai đoạn 4 – Dùng LegoSNARK để ghép module
+
+### ❓ Làm sao combine nhiều proof? 
+**Mục tiêu:** hiểu cách LegoSNARK cho phép composition.
+
+Việc cần làm: 
+1. Tạo sub-circuit độc lập 
+2. Generate CRS (trusted setup) cho từng module 
+3. Compose thành main circuit 
+4. Generate combined proof 
+
+Ở đây bạn bắt đầu khai thác đúng điểm mạnh của LegoSNARK: 
+- Tái sử dụng module 
+- Không rebuild toàn bộ hệ thống 
+
+---
+
+# Giai đoạn 5 – Thiết kế luồng Authentication hoàn chỉnh
+
+### ❓ Client và Server sẽ làm gì?
+
+### Kiến trúc chuẩn:
+
+## Client:
+
+- Nhập password
+    
+- Generate proof local
+    
+- Gửi proof lên server
+    
+
+## Server:
+
+- Nhận proof
+    
+- Verify proof
+    
+- Trả về token nếu hợp lệ
+    
+
+---
+
+# Giai đoạn 6 – Xử lý bảo mật thực tế
+
+### ❓ Làm sao tránh replay attack?
+
+Cần:
+
+- Nonce (số ngẫu nhiên mỗi lần login)
+    
+- Thêm nonce vào circuit
+    
+- Server kiểm tra nonce chưa dùng
+    
+
+---
+
+### ❓ Làm sao lưu trữ an toàn?
+
+Không lưu password.
+
+Chỉ lưu:
+
+- Public hash
+    
+- Hoặc commitment
+    
+
+---
+
+# Giai đoạn 7 – Tối ưu hiệu năng
+
+### ❓ Proof có chậm không?
+
+Cần đo:
+
+- Thời gian proving
+    
+- Thời gian verify
+    
+- Kích thước proof
+    
+
+Tối ưu bằng:
+
+- Giảm constraint
+    
+- Tối ưu circuit hash
+    
+- Chọn elliptic curve phù hợp
+    
+
+---
+
+# Giai đoạn 8 – Hoàn thiện hệ thống production
+
+### Checklist hoàn chỉnh:
+
+- Circuit modular
+    
+- Trusted setup an toàn
+    
+- Key management
+    
+- Logging verify
+    
+- Rate limiting
+    
+- API integration
+    
+
+---
+
+# Lộ trình học theo thứ tự đúng
+
+1. Hiểu R1CS
+    
+2. Viết circuit đơn giản
+    
+3. Tạo và verify proof
+    
+4. Tách module
+    
+5. Ghép module bằng LegoSNARK
+    
+6. Thiết kế client-server
+    
+7. Thêm bảo mật thực tế
