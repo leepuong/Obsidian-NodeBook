@@ -11,12 +11,14 @@
             "id": "801cddc6339d70c0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "7425/draw.md"
+                "file": "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "draw"
+              "icon": "lucide-file",
+              "title": "12_forms_vi"
             }
           }
         ]
@@ -199,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,19 +222,22 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "801cddc6339d70c0",
+  "active": "df52602f1dba8a20",
   "lastOpenFiles": [
+    "IT/React/30-Days-Of-React-master/React/11_events_vi.md",
+    "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
+    "IT/React/30-Days-Of-React-master/React/08_states_vi.md",
+    "IT/React/30-Days-Of-React-master/React/09_conditional_rendering_vi.md",
+    "IT/React/30-Days-Of-React-master/React/11_events.md",
+    "7425/Đề tài.md",
+    "7425/draw.md",
     "IT/React/30-Days-Of-React-master/React/10_react_project_folder_structure_vi.md",
     "IT/React/30-Days-Of-React-master/React/10_react_project_folder_structure.md",
-    "IT/React/30-Days-Of-React-master/React/09_conditional_rendering_vi.md",
     "IT/React/30-Days-Of-React-master/React/09_conditional_rendering.md",
-    "IT/React/30-Days-Of-React-master/React/08_states_vi.md",
     "IT/React/30-Days-Of-React-master/React/08_states.md",
-    "7425/draw.md",
     "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
     "Pasted Image 20260306221424_794.png",
     "Pasted Image 20260306221326_211.png",
-    "7425/Đề tài.md",
     "7425/giải thích dự án.md",
     "IT/React/30-Days-Of-React-master/React/06_map_list_keys.md",
     "IT/React/30-Days-Of-React-master/React/07_class_components_vi.md",
@@ -257,9 +262,6 @@
     "IT/React/30-Days-Of-React-master/React/26_context.md",
     "IT/React/30-Days-Of-React-master/React/25_custom_hooks.md",
     "IT/React/30-Days-Of-React-master/React/24_projects.md",
-    "IT/React/30-Days-Of-React-master/React/23_fetching_data_using_hooks.md",
-    "IT/React/30-Days-Of-React-master/React/22_form_using_hooks.md",
-    "IT/React/30-Days-Of-React-master/React/21_introducing_hooks.md",
     "IT/React/30-Days-Of-React-master",
     "IT/React",
     "7425/Paper/Q0 Do_You_Need_a_Zero_Knowledge_Proof.pdf",

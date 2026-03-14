@@ -309,3 +309,17 @@ Tối ưu bằng:
 6. Thiết kế client-server
     
 7. Thêm bảo mật thực tế
+
+
+
+
+
+
+
+#### 1.1.1. Rationale
+
+- Trong kỷ nguyên chuyển đổi số toàn cầu, an ninh mạng (Cyber Security) không còn là một lựa chọn kỹ thuật mà đã trở thành ưu tiên chiến lược hàng đầu của mọi tổ chức. bởi các mối đe dọa như tấn công giả mạo (phishing), phần mềm độc hại (malware) và rò rỉ dữ liệu đang trở nên cấp bách hơn bao giờ hết, với ước tính khoảng 2.200 cuộc tấn công mạng xảy ra mỗi ngày trên toàn cầu.
+
+**Sự bùng nổ của "Đại dịch" đánh cắp danh tính** Năm 2025 đánh dấu sự leo thang chưa từng có của các loại mã độc đánh cắp thông tin (infostealers). Theo các báo cáo nghiên cứu, đã có hơn 1,8 tỷ thông tin xác thực bị đánh cắp từ 5,8 triệu thiết bị chỉ trong vòng một năm, tương ứng với mức tăng 800% so với các giai đoạn trước đó. Các biến thể mã độc hiện đại như Lumma Stealer hay FleshStealer đã trở nên cực kỳ tinh vi, có khả năng vượt qua các giải pháp phòng thủ truyền thống (EDR) để trực tiếp khai thác kho lưu trữ mật khẩu trên trình duyệt và các tệp tin cookie phiên làm việc.
+
+- 
