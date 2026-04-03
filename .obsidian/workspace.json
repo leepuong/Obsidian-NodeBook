@@ -8,20 +8,71 @@
         "type": "tabs",
         "children": [
           {
-            "id": "801cddc6339d70c0",
+            "id": "d8219ba043fde931",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "idea/Drawing 2026-03-21 09.41.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-21 09.41.53.excalidraw"
+            }
+          },
+          {
+            "id": "4979ccb23c9fd759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
+                "file": "IT/JS/Notes/Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12_forms_vi"
+              "title": "Array"
+            }
+          },
+          {
+            "id": "082bda34737c703c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06_map_list_keys_vi"
+            }
+          },
+          {
+            "id": "050062ecb43490d0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "7425/draw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "draw"
+            }
+          },
+          {
+            "id": "b5d4a7bfa814b343",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 277.5
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -222,54 +273,54 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "df52602f1dba8a20",
+  "active": "050062ecb43490d0",
   "lastOpenFiles": [
-    "IT/React/30-Days-Of-React-master/React/11_events_vi.md",
-    "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
-    "IT/React/30-Days-Of-React-master/React/08_states_vi.md",
-    "IT/React/30-Days-Of-React-master/React/09_conditional_rendering_vi.md",
-    "IT/React/30-Days-Of-React-master/React/11_events.md",
-    "7425/Đề tài.md",
-    "7425/draw.md",
-    "IT/React/30-Days-Of-React-master/React/10_react_project_folder_structure_vi.md",
-    "IT/React/30-Days-Of-React-master/React/10_react_project_folder_structure.md",
-    "IT/React/30-Days-Of-React-master/React/09_conditional_rendering.md",
-    "IT/React/30-Days-Of-React-master/React/08_states.md",
+    "Pasted Image 20260403214417_310.png",
+    "Pasted Image 20260403214345_701.png",
+    "Pasted Image 20260403214306_852.png",
+    "Pasted Image 20260403214231_413.png",
+    "Pasted Image 20260403214216_128.png",
+    "Pasted Image 20260403214124_594.png",
+    "Untitled.md",
+    "Today.md",
+    "Untitled_1.md",
+    "Untitled_1_vi.md",
     "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
-    "Pasted Image 20260306221424_794.png",
-    "Pasted Image 20260306221326_211.png",
-    "7425/giải thích dự án.md",
+    "IT/JS/Notes/Array.md",
+    "idea/Drawing 2026-03-21 09.41.53.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "idea",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "IT/Project0/Project 1/Project One.md",
+    "IT/JS/Notes/Functional Programming.md",
+    "IT/JS/Functions/Functions.md",
+    "IT/JS/Notes/Function.md",
+    "IT/JS/Notes/Object.md",
     "IT/React/30-Days-Of-React-master/React/06_map_list_keys.md",
-    "IT/React/30-Days-Of-React-master/React/07_class_components_vi.md",
-    "IT/React/30-Days-Of-React-master/React/07_class_components.md",
-    "IT/React/30-Days-Of-React-master/React/03_setting_up.md",
-    "IT/React/30-Days-Of-React-master/React/01_javascript_refresher.md",
-    "IT/React/30-Days-Of-React-master/React/02_introduction_to_react.md",
+    "IT/React/30-Days-Of-React-master/React/0adea.md",
+    "IT/React/30-Days-Of-React-master/React/08_states_vi.md",
+    "IT/Project0/Project CV/Drawing 2026-03-16 21.25.55.excalidraw.md",
+    "Pasted Image 20260316213035_534.png",
+    "IT/Project0/Project CV",
+    "7425/Đề tài.md",
+    "7425/giải thích dự án.md",
+    "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
+    "IT/React/30-Days-Of-React-master/React/11_events_vi.md",
+    "IT/React/30-Days-Of-React-master/React/09_conditional_rendering_vi.md",
     "IT/React/30-Days-Of-React-master/React",
-    "IT/React/30-Days-Of-React-master/images/wispr_flow_logo.svg",
-    "IT/React/30-Days-Of-React-master/images/Wispr_Flow-logo.png",
-    "IT/React/30-Days-Of-React-master/images/Wispr_Flow-Logo-white.png",
-    "IT/React/30-Days-Of-React-master/images/web_storage.png",
-    "IT/React/30-Days-Of-React-master/images/vue_popularity.png",
-    "IT/React/30-Days-Of-React-master/images/vue_repo_1_oct_2020.png",
-    "IT/React/30-Days-Of-React-master/images/vsc_live_server.png",
-    "IT/React/30-Days-Of-React-master/images/vscode_ui.png",
     "IT/React/30-Days-Of-React-master/images",
-    "IT/React/30-Days-Of-React-master/React/30_conclusions.md",
-    "IT/React/30-Days-Of-React-master/React/28_project.md",
-    "IT/React/30-Days-Of-React-master/React/29_explore.md",
-    "IT/React/30-Days-Of-React-master/React/27_ref.md",
-    "IT/React/30-Days-Of-React-master/React/26_context.md",
-    "IT/React/30-Days-Of-React-master/React/25_custom_hooks.md",
-    "IT/React/30-Days-Of-React-master/React/24_projects.md",
     "IT/React/30-Days-Of-React-master",
     "IT/React",
     "7425/Paper/Q0 Do_You_Need_a_Zero_Knowledge_Proof.pdf",
     "7425/Paper/Q0 LegoSNARK_Modular_Design_and_Composition_of_Succinct_Zero-Knowledge_Proofs.pdf",
     "7425/Paper/Q0 Extending Web Applications with a Lightweight Zero Knowledge Proof Authentication.pdf",
     "7425/Paper/Q0 Secure-Authentication-using-Zero-Knowledge-Proof.pdf",
-    "7425/Paper/Q1 Zero-knowledge_proofs_for_set_membership_efficient,succinct,modular.pdf",
-    "7425/Paper/Q3 Enhancing_Digital_Privacy_The_Application_of_Zero-.pdf",
     "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]
