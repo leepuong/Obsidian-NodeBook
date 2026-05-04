@@ -266,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,7 +287,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "071145cceeb8eda7",
+  "active": "df52602f1dba8a20",
   "lastOpenFiles": [
     "Fonts/SpaceGrotesk-SemiBold.ttf",
     "Fonts/SpaceGrotesk-Regular.ttf",
