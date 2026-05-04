@@ -19,7 +19,7 @@ Mục tiêu của ứng dụng
 ERD
 
 
-[[7436-4902-7429/7436-Android/Draw#^VKl-qfcoaYDlXYfP-UDyh|UseCasw Diagram]]
+[[ASMs/7436-4902-7429/7436-Android/Draw#^VKl-qfcoaYDlXYfP-UDyh|UseCasw Diagram]]
 
 
 

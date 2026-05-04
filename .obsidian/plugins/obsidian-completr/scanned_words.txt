@@ -1505,6 +1505,8 @@ tbu
 translate
 tip
 tfg
+typography
+tft
 Switch
 Saving
 SNnlwzWx
@@ -1986,6 +1988,8 @@ Study
 Scope
 SEu
 ScG
+SandBox
+SinhTon
 EXCALIDRAW
 Excalidraw
 Elements
@@ -3786,6 +3790,7 @@ Mode
 Methodologies
 MOh
 MnL
+Mod
 OPTIONS
 OSrN
 OhI
@@ -4160,6 +4165,7 @@ Objectives
 OUq
 OYK
 Olx
+Openworld
 menu
 more
 mxidTnwK
@@ -4664,6 +4670,7 @@ mZed
 mSyj
 mxh
 mMC
+modelviewer
 of
 ohwFtHlB
 oUJTTOhk
@@ -9016,6 +9023,7 @@ session
 sure
 sgw
 sTZM
+stylised
 under
 user
 uK
@@ -9910,6 +9918,7 @@ loopback
 logs
 lfLj
 lwD
+learnAfterEffect
 Text
 TmpxXKaK
 TEB
@@ -10341,6 +10350,7 @@ TghuxZV
 Tdog
 TAl
 TDE
+Texture
 JZrltzPO
 JiJZYf
 JsNU
@@ -10713,6 +10723,7 @@ Jun
 JvZ
 JCT
 JTH
+JSViz
 WlYtgANK
 WsE
 WSQqgrOY
@@ -12438,6 +12449,7 @@ Confirm
 Case
 CBVY
 CtH
+Context
 Qsx
 QFo
 Qe
@@ -15825,6 +15837,9 @@ AzKn
 AEOL
 ALR
 Ala
+AfterEffect
+Animating
+Art
 NIsPStLD
 NNPOTWml
 NZazvFhd
@@ -19506,6 +19521,7 @@ jDh
 jUc
 jQyY
 jVgd
+jTasY
 GeluZtbn
 GLhkGVkg
 GusVsHTn
@@ -19874,6 +19890,7 @@ GVr
 GaV
 GLH
 Gktx
+Gen
 PMjsVxZs
 Profile
 PNG
@@ -20312,6 +20329,8 @@ PcSe
 Pwh
 PsiWsVS
 PoY
+PhotoShop
+Palette
 xxR
 xlMI
 xr
@@ -21131,6 +21150,8 @@ LQt
 Lba
 LyqA
 LHR
+LearningTag
+Lab
 zQSuSnYm
 zz
 zC

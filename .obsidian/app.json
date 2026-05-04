@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

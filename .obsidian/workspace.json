@@ -63,16 +63,30 @@
             "id": "b5d4a7bfa814b343",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Tool/Ytb Tools/Flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Flow"
+            }
+          },
+          {
+            "id": "2bcf2b0c028a1f12",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Tool/Ytb Tools/Draw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Draw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -273,54 +287,54 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "105d0bfa2681f79d",
+  "active": "071145cceeb8eda7",
   "lastOpenFiles": [
+    "Fonts/SpaceGrotesk-SemiBold.ttf",
+    "Fonts/SpaceGrotesk-Regular.ttf",
+    "Fonts/SpaceGrotesk-Medium.ttf",
+    "Fonts/SpaceGrotesk-Light.ttf",
+    "Fonts/SpaceGrotesk-Bold.ttf",
+    "Fonts",
+    "Tool/Ytb Tools/Draw.md",
+    "Tool/Ytb Tools/Flow.md",
+    "Tool/Code Tool.md",
+    "Tool/Color Tool.md",
+    "Tool/Model3D Tool.md",
+    "Tool/Texture Tool.md",
+    "Tool/Text Tool.md",
+    "Test obsidian/Get New Node.md",
+    "Tool/Ytb Tools",
+    "Test obsidian/Add New Node.md",
+    "Learning/AfterEffectGroupLearning/Learn AfterEffect.md",
+    "LastRouns/roadmap.md",
+    "Laptop/Setting up laptop.md",
+    "Laptop/BackupLaptop.md",
+    "img/temp/01092025.png",
+    "img/Formation of knowledge/Formation of knowledge.md",
+    "idea/Drawing 2026-03-21 09.41.53.excalidraw.md",
+    "Game/TFT.md",
+    "Game/Vintage Story.md",
+    "Game/Minecraft New Horizon.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "BITC.md",
+    "ASMs",
+    "7425/Untitled",
+    "Today.md",
+    "Untitled.md",
+    "ASMs/7436-4902-7429/4902-Web/ASM.md",
+    "ASMs/7436-4902-7429/4902-Web/authen.md",
     "img/temp/Pasted Image 20260316213035_534.png",
-    "7425/draw.md",
     "img/temp/Pasted Image 20260403214417_310.png",
     "img/temp/Pasted Image 20260403214345_701.png",
     "img/temp/Pasted Image 20260403214306_852.png",
     "img/temp/Pasted Image 20260403214231_413.png",
     "img/temp/Pasted Image 20260403214216_128.png",
     "img/temp/Pasted Image 20260403214124_594.png",
-    "Untitled.md",
-    "Today.md",
-    "Untitled_1.md",
-    "Untitled_1_vi.md",
-    "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
-    "IT/JS/Notes/Array.md",
-    "idea/Drawing 2026-03-21 09.41.53.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "idea",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "IT/Project0/Project 1/Project One.md",
-    "IT/JS/Notes/Functional Programming.md",
-    "IT/JS/Functions/Functions.md",
-    "IT/JS/Notes/Function.md",
-    "IT/JS/Notes/Object.md",
-    "IT/React/30-Days-Of-React-master/React/06_map_list_keys.md",
-    "IT/React/30-Days-Of-React-master/React/0adea.md",
-    "IT/React/30-Days-Of-React-master/React/08_states_vi.md",
-    "IT/Project0/Project CV/Drawing 2026-03-16 21.25.55.excalidraw.md",
     "IT/Project0/Project CV",
-    "7425/Đề tài.md",
-    "7425/giải thích dự án.md",
-    "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
-    "IT/React/30-Days-Of-React-master/React/11_events_vi.md",
-    "IT/React/30-Days-Of-React-master/React",
-    "IT/React/30-Days-Of-React-master/images",
-    "IT/React/30-Days-Of-React-master",
-    "IT/React",
-    "7425/Paper/Q0 Do_You_Need_a_Zero_Knowledge_Proof.pdf",
-    "7425/Paper/Q0 LegoSNARK_Modular_Design_and_Composition_of_Succinct_Zero-Knowledge_Proofs.pdf",
-    "7425/Paper/Q0 Extending Web Applications with a Lightweight Zero Knowledge Proof Authentication.pdf",
-    "7425/Paper/Q0 Secure-Authentication-using-Zero-Knowledge-Proof.pdf",
     "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]

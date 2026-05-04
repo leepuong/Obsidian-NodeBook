@@ -205,7 +205,7 @@ A' ^c9B1WTkf
 35̅̅̅̅𝑏̅ = 11̅̅̅̅𝑎̅ + 9̅̅𝑏̅ + 8̅̅̅𝑎̅ – (4̅̅𝑏̅ + 3̅̅𝑏̅ + 2̅̅̅𝑎̅) + 1̅̅̅� ^qZHCXvKs
 
 ## Element Links
-9V4Lqy9t: [[7436-4902-7429/7429-Math/display.md#lap1.1]]
+9V4Lqy9t: [[display#lap1.1]]
 
 %%
 ## Drawing
