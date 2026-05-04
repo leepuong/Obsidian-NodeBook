@@ -51,12 +51,12 @@
             "id": "050062ecb43490d0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "7425/draw.md"
+                "file": "img/temp/Pasted Image 20260316213035_534.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "draw"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20260316213035_534"
             }
           },
           {
@@ -84,7 +84,7 @@
       {
         "id": "5c7c96ea45c9b546",
         "type": "tabs",
-        "dimension": 77.01149425287356,
+        "dimension": 68.9922480620155,
         "children": [
           {
             "id": "071145cceeb8eda7",
@@ -131,7 +131,7 @@
       {
         "id": "956058b7595389ab",
         "type": "tabs",
-        "dimension": 22.98850574712644,
+        "dimension": 31.007751937984494,
         "children": [
           {
             "id": "105d0bfa2681f79d",
@@ -156,7 +156,7 @@
       {
         "id": "427f492e5427e981",
         "type": "tabs",
-        "dimension": 56.39999999999999,
+        "dimension": 67.24806201550388,
         "children": [
           {
             "id": "33d93999699ceebf",
@@ -236,7 +236,7 @@
       {
         "id": "13ecc1c78cbc8d1d",
         "type": "tabs",
-        "dimension": 43.6,
+        "dimension": 32.751937984496124,
         "children": [
           {
             "id": "f8386d57457f76e9",
@@ -273,14 +273,16 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "050062ecb43490d0",
+  "active": "105d0bfa2681f79d",
   "lastOpenFiles": [
-    "Pasted Image 20260403214417_310.png",
-    "Pasted Image 20260403214345_701.png",
-    "Pasted Image 20260403214306_852.png",
-    "Pasted Image 20260403214231_413.png",
-    "Pasted Image 20260403214216_128.png",
-    "Pasted Image 20260403214124_594.png",
+    "img/temp/Pasted Image 20260316213035_534.png",
+    "7425/draw.md",
+    "img/temp/Pasted Image 20260403214417_310.png",
+    "img/temp/Pasted Image 20260403214345_701.png",
+    "img/temp/Pasted Image 20260403214306_852.png",
+    "img/temp/Pasted Image 20260403214231_413.png",
+    "img/temp/Pasted Image 20260403214216_128.png",
+    "img/temp/Pasted Image 20260403214124_594.png",
     "Untitled.md",
     "Today.md",
     "Untitled_1.md",
@@ -306,13 +308,11 @@
     "IT/React/30-Days-Of-React-master/React/0adea.md",
     "IT/React/30-Days-Of-React-master/React/08_states_vi.md",
     "IT/Project0/Project CV/Drawing 2026-03-16 21.25.55.excalidraw.md",
-    "Pasted Image 20260316213035_534.png",
     "IT/Project0/Project CV",
     "7425/Đề tài.md",
     "7425/giải thích dự án.md",
     "IT/React/30-Days-Of-React-master/React/12_forms_vi.md",
     "IT/React/30-Days-Of-React-master/React/11_events_vi.md",
-    "IT/React/30-Days-Of-React-master/React/09_conditional_rendering_vi.md",
     "IT/React/30-Days-Of-React-master/React",
     "IT/React/30-Days-Of-React-master/images",
     "IT/React/30-Days-Of-React-master",
