@@ -11,12 +11,10 @@
             "id": "4bb5a070929674c5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Tool/Ytb Tools/Draw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Draw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -151,7 +148,7 @@
             }
           },
           {
-            "id": "df52602f1dba8a20",
+            "id": "9a5693b76a5c4bb5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {

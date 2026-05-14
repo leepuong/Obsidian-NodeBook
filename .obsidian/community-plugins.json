@@ -7,7 +7,6 @@
   "image-converter",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "fast-text-color",
   "media-slider",
   "obsidian-completr",
@@ -18,5 +17,6 @@
   "pdf-plus",
   "obsidian-mindmap-nextgen",
   "translate",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-git"
 ]
