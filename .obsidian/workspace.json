@@ -4,77 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c683920760f44192",
+        "id": "8e90a56b3711d9fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d8219ba043fde931",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "idea/Drawing 2026-03-21 09.41.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-21 09.41.53.excalidraw"
-            }
-          },
-          {
-            "id": "4979ccb23c9fd759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/JS/Notes/Array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Array"
-            }
-          },
-          {
-            "id": "082bda34737c703c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06_map_list_keys_vi"
-            }
-          },
-          {
-            "id": "050062ecb43490d0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/temp/Pasted Image 20260316213035_534.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260316213035_534"
-            }
-          },
-          {
-            "id": "b5d4a7bfa814b343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tool/Ytb Tools/Flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flow"
-            }
-          },
-          {
-            "id": "2bcf2b0c028a1f12",
+            "id": "4bb5a070929674c5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -85,8 +19,7 @@
               "title": "Draw"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +31,6 @@
       {
         "id": "5c7c96ea45c9b546",
         "type": "tabs",
-        "dimension": 68.9922480620155,
         "children": [
           {
             "id": "071145cceeb8eda7",
@@ -141,27 +73,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "956058b7595389ab",
-        "type": "tabs",
-        "dimension": 31.007751937984494,
-        "children": [
-          {
-            "id": "105d0bfa2681f79d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -266,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,24 +195,33 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
+      "graph:Open graph view": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "translate:Open translation view": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "df52602f1dba8a20",
+  "active": "4bb5a070929674c5",
   "lastOpenFiles": [
+    "Tool/Ytb Tools/Draw.md",
+    "Untitled",
+    "novel/Time watcher.md",
+    "novel",
+    "Tool/Ytb Tools/Flow.md",
+    "Pasted Image 20260504230225_148.png",
+    "Pasted Image 20260504223753_099.png",
+    "BITC.md",
+    "idea/Drawing 2026-03-21 09.41.53.excalidraw.md",
+    "IT/React/30-Days-Of-React-master/React/06_map_list_keys_vi.md",
+    "img/temp/Pasted Image 20260316213035_534.png",
     "Fonts/SpaceGrotesk-SemiBold.ttf",
     "Fonts/SpaceGrotesk-Regular.ttf",
     "Fonts/SpaceGrotesk-Medium.ttf",
     "Fonts/SpaceGrotesk-Light.ttf",
     "Fonts/SpaceGrotesk-Bold.ttf",
     "Fonts",
-    "Tool/Ytb Tools/Draw.md",
-    "Tool/Ytb Tools/Flow.md",
     "Tool/Code Tool.md",
     "Tool/Color Tool.md",
     "Tool/Model3D Tool.md",
@@ -311,7 +236,6 @@
     "Laptop/BackupLaptop.md",
     "img/temp/01092025.png",
     "img/Formation of knowledge/Formation of knowledge.md",
-    "idea/Drawing 2026-03-21 09.41.53.excalidraw.md",
     "Game/TFT.md",
     "Game/Vintage Story.md",
     "Game/Minecraft New Horizon.md",
@@ -319,22 +243,13 @@
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "BITC.md",
     "ASMs",
-    "7425/Untitled",
     "Today.md",
     "Untitled.md",
-    "ASMs/7436-4902-7429/4902-Web/ASM.md",
-    "ASMs/7436-4902-7429/4902-Web/authen.md",
-    "img/temp/Pasted Image 20260316213035_534.png",
     "img/temp/Pasted Image 20260403214417_310.png",
     "img/temp/Pasted Image 20260403214345_701.png",
     "img/temp/Pasted Image 20260403214306_852.png",
     "img/temp/Pasted Image 20260403214231_413.png",
-    "img/temp/Pasted Image 20260403214216_128.png",
-    "img/temp/Pasted Image 20260403214124_594.png",
-    "idea",
-    "IT/Project0/Project CV",
     "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]
