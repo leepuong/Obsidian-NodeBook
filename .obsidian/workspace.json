@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e90a56b3711d9fb",
+        "id": "c972e0f46fb22a30",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb5a070929674c5",
+            "id": "bffb5f51965c3248",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +200,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4bb5a070929674c5",
+  "active": "9a5693b76a5c4bb5",
   "lastOpenFiles": [
     "Pasted Image 20260504230225_148 - Copy.png",
     "Tool/Ytb Tools/Draw.md",
