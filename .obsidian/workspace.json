@@ -11,10 +11,12 @@
             "id": "bffb5f51965c3248",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Tool/Ytb Tools/Draw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Draw"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "957f2c2f2cb9e04e",
@@ -139,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tool/Ytb Tools/Draw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Draw"
             }
           },
           {
-            "id": "9a5693b76a5c4bb5",
+            "id": "1f5e0212f0c3aec3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -183,27 +187,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "graph:Open graph view": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
-      "graph:Open graph view": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "translate:Open translation view": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "translate:Open translation view": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "9a5693b76a5c4bb5",
+  "active": "bffb5f51965c3248",
   "lastOpenFiles": [
-    "Pasted Image 20260504230225_148 - Copy.png",
     "Tool/Ytb Tools/Draw.md",
+    "Pasted Image 20260504230225_148 - Copy.png",
     "Untitled",
     "novel/Time watcher.md",
     "novel",
@@ -247,7 +251,6 @@
     "img/temp/Pasted Image 20260403214417_310.png",
     "img/temp/Pasted Image 20260403214345_701.png",
     "img/temp/Pasted Image 20260403214306_852.png",
-    "img/temp/Pasted Image 20260403214231_413.png",
     "Untitled.canvas",
     "Blender/Untitled.canvas"
   ]
