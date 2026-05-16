@@ -11,12 +11,10 @@
             "id": "bffb5f51965c3248",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Tool/Ytb Tools/Draw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Draw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Ytb Tools/Draw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draw"
+              "title": "Outline"
             }
           },
           {
@@ -203,17 +200,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "bffb5f51965c3248",
+  "active": "9d0218ab30adf5b2",
   "lastOpenFiles": [
     "Tool/Ytb Tools/Untitled-2026-05-16-0051.excalidraw.md",
     "Tool/Ytb Tools/Draw.md",
+    "Tool/Ytb Tools/Flow.md",
     "Tool/Code Tool.md",
     "Tool/Ytb Tools/Untitled-2026-05-16-0051.excalidraw",
     "Pasted Image 20260504230225_148 - Copy.png",
     "Untitled",
     "novel/Time watcher.md",
     "novel",
-    "Tool/Ytb Tools/Flow.md",
     "Pasted Image 20260504230225_148.png",
     "Pasted Image 20260504223753_099.png",
     "BITC.md",
