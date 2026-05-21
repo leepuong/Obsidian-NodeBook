@@ -5,7 +5,7 @@
   "showOnlyActiveFile": false,
   "autoRefresh": true,
   "subGroups": false,
-  "groupBy": "page",
+  "groupBy": "tag",
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",

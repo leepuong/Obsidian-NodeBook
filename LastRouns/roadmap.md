@@ -193,3 +193,8 @@ Basic SEO for SPAs
 ![🎯](https://static.xx.fbcdn.net/images/emoji.php/v9/tb0/1/16/1f3af.png) Final Advice
 
 If you follow this path step by step, you will be better than 90% of beginners because you’re mastering fundamentals before jumping into frameworks.
+
+
+- [ ] Xây web pofolio #todo
+- [ ] Học figma #todo
+- [ ] 
